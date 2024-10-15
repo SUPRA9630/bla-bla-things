@@ -7,5 +7,5 @@ HELLO MY NAME IS SUPRAKASH GHOSH
 <br>
 HELLO WORLD
 <br>
-khragpur
+kharagpur
 
